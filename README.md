@@ -1,0 +1,2 @@
+# iContact
+An image processing project that allows the user to control the mouse's movement with their eyes. The project was made using C++ and winAPI. In the project I programed all the image processing functions on my own without the help of outsize libraries such as openCV. Moreover, the project was not done using machine learning, making it harder and more challenging. I implemented all the mathematical equations and algorithms.
